@@ -4,4 +4,4 @@ Testing squash
 Squash testing
 Testing merge
 Merge testing
-Merge
+Merge ter
